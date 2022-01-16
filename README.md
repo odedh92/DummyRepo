@@ -1,3 +1,2 @@
 # DummyRepo
-test
-tes
+This is my home assignment for audiTech.
